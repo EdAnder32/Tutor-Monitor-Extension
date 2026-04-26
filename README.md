@@ -1,4 +1,5 @@
 # Tutor Monitor Extension
+![Logo](https://github.com/EdAnder32/Tutor-Monitor-Extension/blob/main/logo.png)
 A profissional chrome extension for 42 tutors
 
 ## Instructions
